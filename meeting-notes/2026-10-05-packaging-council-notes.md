@@ -1,4 +1,4 @@
-# 5 October 2026
+# Python Packaging Council meeting notes (5 October 2026)
 
 ## Attendees
 
