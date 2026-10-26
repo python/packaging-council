@@ -15,7 +15,7 @@ can simply show up to discuss any packaging-related topic you want with us -
 first come first served, and if multiple people with different topics show up
 we'll try to fit them all in. These are currently scheduled as 30 minute video
 calls every other week, on Tuesday, Pacific Time (PCT) at 10:00 AM (check your
-timezone [here](https://time.now/time-zone-converter/pct/)).
+timezone [here](https://time.is/10%20in%20Vancouver)).
 
 These meetings can be used by packaging tool authors, PEP authors and anyone
 else contributing to Python Packaging to discuss things they want to discuss
