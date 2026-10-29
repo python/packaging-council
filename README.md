@@ -55,8 +55,8 @@ Those standards can be changed in two ways, through:
 
 * a packaging PEP - this is the expected route for large changes; see
  [PEPs that relate to packaging](https://peps.python.org/topic/packaging/)
-* substantive change to the specification that are judged to be too small and
-  uncontroversial to require a PEP.
+* a direct PR - only suitable for a semantic change to the specification that
+  is uncontroversial and small enough to not warrant writing a PEP.
 
 Change proposals should always first be discussed on
 [discuss.python.org](https://discuss.python.org/c/packaging/14)
@@ -74,7 +74,7 @@ followed. All Council members can act as PEP Sponsors, as can other groups
 listed under "Finding a Sponsor" in PEP 1.
 
 <!-- We expect that more long-time Python packaging contributors will gain the
-ability to sponsor packaging PEPs, add this info when that's the case -->
+ability to sponsor packaging PEPs soon, add this info when that's the case -->
 
 Beyond the process outlined in PEP 1, the Council
 
@@ -86,7 +86,10 @@ Beyond the process outlined in PEP 1, the Council
 * intends to put emphasis on complete and mature enough reference
   implementations and real-world testing.
 * will require a pull request to the Specification section of the Python
-  Packaging User Guide _before_ accepting a PEP.
+  Packaging User Guide _before_ accepting a PEP (it's not required for the
+  author to open such a PR before asking for a decision though - the
+  Council will ask for a PR once they're close enough to finalizing their
+  decision).
 
 
 ### Other specification changes
