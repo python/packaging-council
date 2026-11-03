@@ -86,10 +86,11 @@ Beyond the process outlined in PEP 1, the Council
 * intends to put emphasis on complete and mature enough reference
   implementations and real-world testing.
 * will require a pull request to the Specification section of the Python
-  Packaging User Guide _before_ accepting a PEP (it's not required for the
-  author to open such a PR before asking for a decision though - the
+  Packaging User Guide _before_ accepting a PEP. Note that it's not required
+  for the author to open such a PR before asking for a decision though - the
   Council will ask for a PR once they're close enough to finalizing their
-  decision).
+  acceptance. This step is only meant to ensure the Packaging Guide stays
+  up to date; it's not another avenue for design discussion.
 
 
 ### Other specification changes
