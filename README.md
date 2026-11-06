@@ -122,3 +122,4 @@ cases where it deems that necessary.
 - [PEP 1 – PEP Purpose and Guidelines](https://peps.python.org/pep-0001/)
 - [PEP 772 – Packaging Council governance process](https://peps.python.org/pep-0772/)
 - [Python Packaging User Guide](https://packaging.python.org/)
+- [Standing Delegation from Steering Council](https://github.com/python/steering-council/blob/main/process/standing-delegations.md#packaging-council)
