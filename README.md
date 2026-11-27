@@ -95,6 +95,11 @@ Beyond the process outlined in PEP 1, the Council
   acceptance. This step is only meant to ensure the Packaging Guide stays
   up to date; it's not another avenue for design discussion.
 
+  * This PR will be merged when the PEP approval gets posted. The PEP itself
+    should get the redirect notice to link to the live specification. If
+    changes to the specification are needed between Approved and Final
+    status of the PEP, then both the Guide and the PEP need to be updated.
+
 
 ### Other specification changes
 
